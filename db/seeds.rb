@@ -68,5 +68,5 @@ Product.create!(title: 'Programming Crystal',
       tooling. Now you can write beautiful code that runs faster, scales better, 
       and is a breeze to deploy.
       </p>},
-  image_url: 'funny.jpg',
+  image_url: 'funny.png',
   price: 40.00)
